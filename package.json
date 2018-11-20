@@ -10,6 +10,7 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
+    "deploy": "npm run build && ./node_modules/.bin/ghpages -d build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
