@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Porti/precache-manifest.7eab8165b1ad5a7cecafe93c0f37a6c0.js"
+  "/portifolioAnderson/precache-manifest.edd078d19bec73c843e01e20e0df05ee.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Porti/index.html", {
+workbox.routing.registerNavigationRoute("/portifolioAnderson/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
