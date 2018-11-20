@@ -9,15 +9,15 @@ const Skills = () => {
                 <h4>Quais minhas habilidades.</h4>
 				<h5>Lista de algumas das minhas habilidade</h5>
                 <ul id="list-skills" className="container">
-                    <a class="badge badge-light">C</a>
-					<a class="badge badge-light">HTML5</a>
-					<a class="badge badge-light">CSS3</a>
-					<a class="badge badge-light">JAVASCRIPT</a>
-					<a class="badge badge-light">JAVA</a>
-					<a class="badge badge-light">DELPHI</a>
-					<a class="badge badge-light">POSTGRE SQL</a>
-					<a class="badge badge-light">SQL SERVER</a>
-					<a class="badge badge-light">SQL </a>
+                    <li className="badge badge-light">C</li>
+					<li className="badge badge-light">HTML5</li>
+					<li className="badge badge-light">CSS3</li>
+					<li className="badge badge-light">JAVASCRIPT</li>
+					<li className="badge badge-light">JAVA</li>
+					<li className="badge badge-light">DELPHI</li>
+					<li className="badge badge-light">POSTGRE SQL</li>
+					<li className="badge badge-light">SQL SERVER</li>
+					<li className="badge badge-light">SQL </li>
                 </ul>
             </div>
         </section>

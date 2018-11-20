@@ -15,7 +15,7 @@ const Portfolio = () => {
                                 <h4 className="card-title">Geovanna Garcia</h4>
 								
                                 <p className="card-text">Trabalho realizado para a disciplina de programação web.</p>
-                                <a className="btn btn-dark" href="https://github.com/AndersonLahan/www.geovannagarcia.com.br" target="_blank" >Link do Repositório</a>
+                                <a className="btn btn-dark" href="https://github.com/AndersonLahan/www.geovannagarcia.com.br" target="_blank" rel="noopener noreferrer">Link do Repositório</a>
                             </div>
                         </div>
                     </div>

@@ -29,18 +29,18 @@ const Contato = () => {
                 <div id="redes-sociais" className="container mx-auto col-lg-8 col-md-8 col-sm-12 col-xs-12">
                     <h1>Redes Sociais</h1>
                     <div>
-                        <a href="https://www.facebook.com/anderson.lahan" target="_blank">
+                        <a href="https://www.facebook.com/anderson.lahan" target="_blank" rel="noopener noreferrer">
                             <figure>
                                 <img className="icones" src="./assets/icones/facebook.png" alt="Facebook" />
                             </figure>
                         </a>
-                        <a href="https://www.instagram.com/andersonlahan" target="_blank">
+                        <a href="https://www.instagram.com/andersonlahan" target="_blank" rel="noopener noreferrer">
                             <figure>
                                 <img className="icones" src="./assets/icones/instagran.png" alt="Instagram" />
                             </figure>
                         </a>
 						
-						<a href="https://github.com/AndersonLahan" target="_blank">
+						<a href="https://github.com/AndersonLahan" target="_blank" rel="noopener noreferrer">
                             <figure>
                                 <img className="icones" src="./assets/icones/github.png" alt="github" />
                             </figure>
